@@ -1,4 +1,6 @@
-# ember-quickstart
+# Zerops x Ember.js
+
+![Ember](https://github.com/zeropsio/recipe-shared-assets/blob/main/covers/svg/cover-ember.svg)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
