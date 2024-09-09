@@ -1,6 +1,6 @@
 # Zerops x Ember.js
 
-A bare-bones example of a Ember.js. It provides a lightweight starting point for building web applications with minimal configuration. Zerops makes deploying and running Ember.js apps, a breeze.
+A bare-bones example of Ember.js. It provides a lightweight starting point for building web applications with minimal configuration. Zerops makes deploying and running Ember.js apps, a breeze.
 
 ![Ember](https://github.com/zeropsio/recipe-shared-assets/blob/main/covers/svg/cover-ember.svg)
 
